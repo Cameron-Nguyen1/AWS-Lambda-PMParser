@@ -1,4 +1,4 @@
-#AWS-Lambda-PMParser
+# AWS-Lambda-PMParser
 ##The goal of the program is to allow for quick, abbreviated searches of keywords across programmatically accessible content on pubmed/pubmed central databases.
 
 ## Notice the Python 3.9 layer in the Python subdirectory. I included the layer only because it includes downloaded stopwords for the english language used by the NLP algorithm.
